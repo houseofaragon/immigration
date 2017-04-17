@@ -1,0 +1,17 @@
+# parsekit
+.DS_Store
+.parse
+*.swp
+
+build/
+dist/
+dev/
+__pycache__
+*.pyc
+.eggs
+.cache
+*.egg-info
+node_modules/
+public/
+public/assets/*
+npm-debug.log

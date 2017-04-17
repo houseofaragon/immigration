@@ -1,0 +1,14 @@
+2017-04-07T14:19:14-0400 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 17.1.0 (/Users/jak/Envs/httpspserv3/bin/python3.6 3.6.1) starting up.
+2017-04-07T14:19:14-0400 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2017-04-07T14:19:14-0400 [-] Site (TLS) starting on 4443
+2017-04-07T14:19:14-0400 [twisted.web.server.Site#info] Starting factory <twisted.web.server.Site object at 0x11030c908>
+2017-04-07T14:19:14-0400 [-] Site starting on 8080
+2017-04-07T14:19:23-0400 [twisted.python.log#info] "127.0.0.1" - - [07/Apr/2017:18:19:22 +0000] "GET /sanctions-tracker/ HTTP/1.1" 404 145 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+2017-04-07T14:19:25-0400 [twisted.python.log#info] "127.0.0.1" - - [07/Apr/2017:18:19:25 +0000] "GET /sanctions-tracker/ HTTP/1.1" 404 145 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+2017-04-07T14:37:51-0400 [-] Removing stale pidfile /Users/jak/Sites/sanctions-tracker/components/front-end/twistd.pid
+2017-04-07T14:37:54-0400 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 17.1.0 (/Users/jak/Envs/httpspserv3/bin/python3.6 3.6.1) starting up.
+2017-04-07T14:37:54-0400 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2017-04-07T14:37:54-0400 [-] Site (TLS) starting on 4443
+2017-04-07T14:37:54-0400 [twisted.web.server.Site#info] Starting factory <twisted.web.server.Site object at 0x10fc08908>
+2017-04-07T14:37:54-0400 [-] Site starting on 8080
+2017-04-07T14:37:58-0400 [twisted.python.log#info] "127.0.0.1" - - [07/Apr/2017:18:37:57 +0000] "GET /sanctions-tracker/ HTTP/1.1" 404 145 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
